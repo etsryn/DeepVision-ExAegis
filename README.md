@@ -49,8 +49,8 @@
 - ✅ **Background Noise Analysis** – AI filters out **candidate’s voice vs. external whispers.**  
 - ✅ **Keyword-Based Flagging** – Detects “Hey Google,” “Alexa,” “Siri,” or any **question-answer discussions.**  
 - ✅ **Speech-to-Text Conversion & Pattern Analysis** – Exam logs candidate’s **speech** and **analyzes phrasing patterns.**  
-- 📌 **If candidate speaks without answering → Instant Flag.**  
-- 📌 **If there is a long pause before answering → Warning triggered.**  
+  - 📌 **If candidate speaks without answering → Instant Flag.**  
+  - 📌 **If there is a long pause before answering → Warning triggered.**  
 
 ---
 
