@@ -31,8 +31,8 @@
 ## **🔹 AI-Powered Face & Eye Tracking (Extreme-Level Monitoring)**  
 - ✅ **Frequent Face Revalidation (Every X minutes)** – Forces candidate to re-authenticate **mid-exam**.  
 - ✅ **Eye Gaze Deviation Analysis** – AI tracks **eye movement range**.  
- - 📌 **If candidate looks away for more than 1.5 seconds → Warning**  
- - 📌 **If gaze deviates from the screen 3+ times → Exam auto-submits.**  
+  - 📌 **If candidate looks away for more than 1.5 seconds → Warning**  
+  - 📌 **If gaze deviates from the screen 3+ times → Exam auto-submits.**  
 - ✅ **Head Tilt & Microexpression Tracking** – AI detects **unnatural expressions** (e.g., reading off paper).  
 - ✅ **Infrared Detection for Hidden Screens** – If the candidate is reading from a hidden **phone/tablet**, flagged!  
 
