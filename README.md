@@ -1,7 +1,3 @@
-Sure! Here's the complete `README.md` for your AI-Powered Exam Proctoring System:
-
----
-
 # AI-Powered Exam Proctoring System
 
 This repository contains an advanced **AI-driven exam proctoring system** designed to ensure exam integrity through real-time monitoring. The system uses AI to track candidate behavior, detect suspicious activities, and prevent cheating during exams. Key functionalities include facial recognition, gaze tracking, object detection, and audio monitoring.
