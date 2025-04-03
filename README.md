@@ -8,9 +8,9 @@
 
 ## **🔹 Candidate Authentication & Identity Verification**  
 🔒 **Multi-Level Facial Authentication:**  
-✅ **Face Matching with Official Database** – Compares candidate’s face with pre-stored university records.  
-✅ **Real-Time Liveness Detection** – Prevents spoofing via deepfake, photos, or recorded videos.  
-✅ **Live Randomized Poses** – System asks candidate to **turn left, right, blink, or smile** randomly before login.  
+- ✅ **Face Matching with Official Database** – Compares candidate’s face with pre-stored university records.  
+- ✅ **Real-Time Liveness Detection** – Prevents spoofing via deepfake, photos, or recorded videos.  
+- ✅ **Live Randomized Poses** – System asks candidate to **turn left, right, blink, or smile** randomly before login.  
 
 🔒 **Advanced Biometric Security:**  
 ✅ **Voiceprint Matching** – Candidate must repeat a random phrase, **matched with pre-recorded voice sample**.  
