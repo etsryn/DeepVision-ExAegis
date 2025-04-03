@@ -29,43 +29,43 @@
 # **📌 2. REAL-TIME AI MONITORING (STRICTEST RULES)**  
 
 ## **🔹 AI-Powered Face & Eye Tracking (Extreme-Level Monitoring)**  
-✅ **Frequent Face Revalidation (Every X minutes)** – Forces candidate to re-authenticate **mid-exam**.  
-✅ **Eye Gaze Deviation Analysis** – AI tracks **eye movement range**.  
-📌 **If candidate looks away for more than 1.5 seconds → Warning**  
-📌 **If gaze deviates from the screen 3+ times → Exam auto-submits.**  
-✅ **Head Tilt & Microexpression Tracking** – AI detects **unnatural expressions** (e.g., reading off paper).  
-✅ **Infrared Detection for Hidden Screens** – If the candidate is reading from a hidden **phone/tablet**, flagged!  
+- ✅ **Frequent Face Revalidation (Every X minutes)** – Forces candidate to re-authenticate **mid-exam**.  
+- ✅ **Eye Gaze Deviation Analysis** – AI tracks **eye movement range**.  
+ - 📌 **If candidate looks away for more than 1.5 seconds → Warning**  
+ - 📌 **If gaze deviates from the screen 3+ times → Exam auto-submits.**  
+- ✅ **Head Tilt & Microexpression Tracking** – AI detects **unnatural expressions** (e.g., reading off paper).  
+- ✅ **Infrared Detection for Hidden Screens** – If the candidate is reading from a hidden **phone/tablet**, flagged!  
 
 ## **🔹 Object & Person Detection (AI Scan for Suspicious Items)**  
-✅ **Multiple Person Detection** – **If any extra face is detected → Exam auto-ends.**  
-✅ **Mobile Phone Detection** – Uses AI-based object recognition.  
-✅ **Bluetooth / Earphone Detection** – Detects Bluetooth signals using WiFi scans.  
-✅ **Mirror & Reflective Surface Scanning** – Stops candidates using **mirrors to read notes**.  
-✅ **Book & Paper Detection** – AI OCR scans surroundings for **printed text.**  
+- ✅ **Multiple Person Detection** – **If any extra face is detected → Exam auto-ends.**  
+- ✅ **Mobile Phone Detection** – Uses AI-based object recognition.  
+- ✅ **Bluetooth / Earphone Detection** – Detects Bluetooth signals using WiFi scans.  
+- ✅ **Mirror & Reflective Surface Scanning** – Stops candidates using **mirrors to read notes**.  
+- ✅ **Book & Paper Detection** – AI OCR scans surroundings for **printed text.**  
 
 ---
 
 # **📌 3. AUDIO MONITORING & SPEECH DETECTION**  
-✅ **Background Noise Analysis** – AI filters out **candidate’s voice vs. external whispers.**  
-✅ **Keyword-Based Flagging** – Detects “Hey Google,” “Alexa,” “Siri,” or any **question-answer discussions.**  
-✅ **Speech-to-Text Conversion & Pattern Analysis** – Exam logs candidate’s **speech** and **analyzes phrasing patterns.**  
-📌 **If candidate speaks without answering → Instant Flag.**  
-📌 **If there is a long pause before answering → Warning triggered.**  
+- ✅ **Background Noise Analysis** – AI filters out **candidate’s voice vs. external whispers.**  
+- ✅ **Keyword-Based Flagging** – Detects “Hey Google,” “Alexa,” “Siri,” or any **question-answer discussions.**  
+- ✅ **Speech-to-Text Conversion & Pattern Analysis** – Exam logs candidate’s **speech** and **analyzes phrasing patterns.**  
+- 📌 **If candidate speaks without answering → Instant Flag.**  
+- 📌 **If there is a long pause before answering → Warning triggered.**  
 
 ---
 
 # **📌 4. SYSTEM-LEVEL MONITORING (ZERO TOLERANCE RULES)**  
 
 ## **🔹 Browser & Tab Restrictions**  
-✅ **Tab Switching Detection (STRICT)** – If user switches tabs even **once → Exam auto-submits.**  
-✅ **Copy-Paste Blocker** – Disables **Ctrl + C, Ctrl + V, Print Screen.**  
-✅ **Disable Inspect Element / Console Access** – Prevents browser debugging hacks.  
-✅ **Keystroke Logger Detection** – Blocks hidden keyloggers used for auto-answering.  
+- ✅ **Tab Switching Detection (STRICT)** – If user switches tabs even **once → Exam auto-submits.**  
+- ✅ **Copy-Paste Blocker** – Disables **Ctrl + C, Ctrl + V, Print Screen.**  
+- ✅ **Disable Inspect Element / Console Access** – Prevents browser debugging hacks.  
+- ✅ **Keystroke Logger Detection** – Blocks hidden keyloggers used for auto-answering.  
 
 ## **🔹 Screen & Input Monitoring**  
-✅ **Secondary Display Detection** – Blocks **multi-monitor setups**.  
-✅ **Prevent Remote Control Software** – Auto-detects & **blocks AnyDesk, TeamViewer, Chrome Remote Desktop.**  
-✅ **Auto-Shutdown if External Keyboard is Plugged** – Prevents multiple people from controlling the test.  
+- ✅ **Secondary Display Detection** – Blocks **multi-monitor setups**.  
+- ✅ **Prevent Remote Control Software** – Auto-detects & **blocks AnyDesk, TeamViewer, Chrome Remote Desktop.**  
+- ✅ **Auto-Shutdown if External Keyboard is Plugged** – Prevents multiple people from controlling the test.  
 
 ---
 
