@@ -13,16 +13,16 @@
 - ✅ **Live Randomized Poses** – System asks candidate to **turn left, right, blink, or smile** randomly before login.  
 
 🔒 **Advanced Biometric Security:**  
-✅ **Voiceprint Matching** – Candidate must repeat a random phrase, **matched with pre-recorded voice sample**.  
-✅ **Fingerprint Scan (Optional)** – If hardware supports it.  
-✅ **Keystroke Dynamics (Typing Pattern Analysis)** – Tracks **unique typing speed & pressure** to prevent impersonation.  
+- ✅ **Voiceprint Matching** – Candidate must repeat a random phrase, **matched with pre-recorded voice sample**.  
+- ✅ **Fingerprint Scan (Optional)** – If hardware supports it.  
+- ✅ **Keystroke Dynamics (Typing Pattern Analysis)** – Tracks **unique typing speed & pressure** to prevent impersonation.  
 
 🔒 **Device & Browser Lockdown:**  
-✅ **Single Device Authentication** – Locks exam to one registered device.  
-✅ **Disable USB & External Devices** – No external keyboards, mouse, or pen tablets allowed.  
-✅ **Fingerprinting & MAC Address Lock** – Blocks access from unauthorized devices.  
-✅ **Block Virtual Machines & Remote Desktops** – Detects VM software like VMware, AnyDesk, TeamViewer.  
-✅ **One-Time Browser Session** – Cannot re-login after logout.  
+- ✅ **Single Device Authentication** – Locks exam to one registered device.  
+- ✅ **Disable USB & External Devices** – No external keyboards, mouse, or pen tablets allowed.  
+- ✅ **Fingerprinting & MAC Address Lock** – Blocks access from unauthorized devices.  
+- ✅ **Block Virtual Machines & Remote Desktops** – Detects VM software like VMware, AnyDesk, TeamViewer.  
+- ✅ **One-Time Browser Session** – Cannot re-login after logout.  
 
 ---
 
