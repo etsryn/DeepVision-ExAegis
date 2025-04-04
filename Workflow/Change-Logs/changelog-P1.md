@@ -10,3 +10,16 @@
 Version - [0.0.0] - Development Not Yet Started
 Dated - 01/04/2025
 ```
+
+### Finalizing React-Vite App Querires
+
+```
+◇  Package name:
+│  deepvision-exaegis
+│
+◇  Select a framework:
+│  React
+│
+◇  Select a variant:
+│  TypeScript + SWC
+```
