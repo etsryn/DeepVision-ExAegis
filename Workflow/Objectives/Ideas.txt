@@ -1,0 +1,2 @@
+1. Add Data Analysis Feature on Student Dashboard to give the student a insight, in this way i'll utilise my Data-Science skill
+2. Implement GPT Powered ChatBot for (need to be decided yet hehe...)
