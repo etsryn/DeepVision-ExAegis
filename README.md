@@ -14,7 +14,7 @@ This repository contains an advanced **AI-driven exam proctoring system** design
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI-Exam-Proctoring.git
+   git clone https://github.com/etsryn/DeepVision-ExAegis.git
    ```
 
 2. Install the necessary dependencies:
