@@ -1,0 +1,158 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+/* 🔹 Navbar */
+.navbar {
+  width: 100vw;
+  padding: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  /* text-align: center; */
+}
+/* 🔹 Modern Animated Button */
+.backButton {
+  width: 10vw;
+  padding: 12px;
+  background: linear-gradient(270deg, #0f172a, #1e293b);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.3s ease;
+  position: relative;
+  left: -40vw;
+  overflow: hidden;
+}
+.backButton:focus {
+  outline: none;
+}
+
+.backButton:hover {
+  transform: translateX(-5px);
+}
+/* 🌙 Dark Theme with Glassmorphism */
+.loginWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  font-family: "Poppins", sans-serif;
+}
+
+/* 🔹 Glassmorphic Login Container */
+.loginContainer {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  padding: 40px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  width: 380px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+h2 {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* 📌 Animated Input Fields */
+.inputBox {
+  position: relative;
+  margin-bottom: 25px;
+}
+
+.inputBox input {
+  width: 100%;
+  padding: 12px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+  outline: none;
+  color: white;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.inputBox input:focus {
+  border-bottom: 2px solid #4caf50;
+}
+
+.inputBox label {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(255, 255, 255, 0.6);
+  transition: 0.3s;
+  font-size: 16px;
+  pointer-events: none;
+}
+
+.inputBox input:focus + label,
+.inputBox input:valid + label {
+  top: 0;
+  font-size: 12px;
+  color: #4caf50;
+}
+
+/* 🔹 Modern Animated Button */
+.submitButton {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to right, #4caf50, #2e7d32);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.submitButton:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(76, 175, 80, 0.5);
+}
+
+/* ✨ Bottom Link */
+p {
+  color: white;
+  margin-top: 15px;
+}
+
+a {
+  color: #4caf50;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.footer {
+  padding: 15px;
+  font-size: 14px;
+  opacity: 0.8;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.05);
+  width: 100vw;
+}
