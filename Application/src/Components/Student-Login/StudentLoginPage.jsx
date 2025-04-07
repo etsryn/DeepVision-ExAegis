@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
-import styles from "./StudentLoginPage.module.css"; // ✅ Import CSS Module
+import styles from "./StudentLoginPage.module.css";
+import { GraduationCap } from "lucide-react";
 
 export default function StudentLoginPage() {
   return (
@@ -13,7 +14,7 @@ export default function StudentLoginPage() {
 
         <div className={styles.loginWrapper}>
           <div className={styles.loginContainer}>
-            <h2>Student Login</h2>
+            <h2><GraduationCap size={40} strokeWidth={1.5} /><br />Student Login</h2>
             <form>
               <div className={styles.inputBox}>
                 <input type="email" required />
@@ -25,6 +26,9 @@ export default function StudentLoginPage() {
               </div>
               <button className={styles.submitButton} type="submit">Login</button>
             </form>
+            <p>
+              New User ? <Link to="/login/student/registration/FS">Register</Link>
+            </p>
             <p>
               Are you an Examiner? <Link to="/login/examiner">Login here</Link>
             </p>

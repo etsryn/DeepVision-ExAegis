@@ -21,5 +21,5 @@ Dated - 01/04/2025
 │  React
 │
 ◇  Select a variant:
-│  TypeScript + SWC
+│  JavaScript + SWC
 ```

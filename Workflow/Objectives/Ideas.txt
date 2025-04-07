@@ -1,2 +1,8 @@
 1. Add Data Analysis Feature on Student Dashboard to give the student a insight, in this way i'll utilise my Data-Science skill
 2. Implement GPT Powered ChatBot for (need to be decided yet hehe...)
+3. There will be a concept of Honesty Score, on Account creation hs=100, on violations 1stage:-0.01, stage2: -0.05, stage3: -0.5, now if a test is passwed without any stage3 violation:+0.01, without stage2 violation: +0.05; without stage1 violation: +0.5
+4. Moto : Made by the students, for the students
+5. Screen Brightness Restrictions, not too low, not too high
+6. Video recording of test7. Keyboard keys monitoring
+7. Mouse cursor tracking
+8. Typing speed tracking
